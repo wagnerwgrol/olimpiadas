@@ -1,4 +1,4 @@
-# Atletas do Brasil
+# Atletas do Brasil - Imersão aev com Google Gmini
 
 Este projeto é uma aplicação web simples que permite pesquisar informações sobre atletas brasileiros. A pesquisa pode ser feita por nome do atleta, esporte ou tags associadas, e os resultados são exibidos dinamicamente na página.
 
